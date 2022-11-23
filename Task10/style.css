@@ -1,0 +1,182 @@
+body{
+    background-color: grey;
+}
+.B1{
+    background-color:white;
+    padding: 10px;
+    height: 20px;
+    width: 350px;
+    border-radius: 10px;
+    
+    margin: 20px 10px;
+
+
+    box-shadow: 10px 10px 10px white;
+}
+
+
+
+
+@media only screen and (max-width:700px)
+{
+    .B1{
+        width: 50%;
+        margin-left: 50px;
+    }
+    
+} 
+.B2{
+    background-color: white;
+    padding: 10px;
+    height:20px ;
+    width: 350px;
+    border-radius: 10px;
+    margin: -60px 0px 50px 395px;
+
+
+    box-shadow: 10px 10px 10px white;
+}
+
+
+
+@media only screen and (max-width:700px)
+{
+    .B2{
+        width: 50%;
+        margin-left: 60px;
+        margin-top: 150px;
+    }
+} 
+
+.B3{
+    background-color: white;
+    padding:10px ;
+    height: 20px;
+    width: 350px;
+    border-radius: 10px;
+    margin: -90px 0px 100px 780px;
+
+
+    box-shadow: 10px 10px 10px white;
+}
+
+
+@media  screen and (max-width:700px) 
+{
+    .B3{
+        width: 50%;
+        margin-bottom: 0px;
+        margin-top: 180px;
+        margin-left: 7/0px;
+        margin-right: 0px;
+    }
+    
+}
+.B4{
+    background-color: white;
+    padding:10px ;
+    height: 20px;
+    width: 350px;
+    border-radius: 10px;
+    margin: -140px 0px 50px 1165px;
+
+
+
+    box-shadow: 5px 5px 10px white;
+}
+.B5{
+    padding: 120px;
+    margin: -220px -110px -200px;
+    background-size: cover;
+    background-image:none;
+    background-size: contain;
+    
+   
+    opacity: 0.5;
+    width: 1000px;
+    
+}
+
+
+
+.B6{
+
+    background-color: white;
+    padding: 60px;
+    width: 80px;
+    height: 150px;
+    border-radius: 10px;
+    margin: -930px 0px 0px 1320px;
+    
+
+    box-shadow: 10px 10px 10px white;
+
+}
+.B7{
+    background-color: white;
+    padding: 60px;
+    width: 80px;
+    height: 150px;
+    border-radius: 10px;
+    margin: 30px 0px 0px 1320px;
+
+
+    box-shadow: 10px 10px 10px white;
+}
+.B8{
+    background-color: white;
+    padding: 80px;
+    width: 160px;
+    height: 40px;
+    border-radius: 10px;
+    margin: 30px 0px 10px 1200px;
+
+
+    box-shadow: 15px 10px 10px white;
+}
+.B9{
+    
+        background-color: white;
+        padding: 80px;
+        width: 180px;
+        height: 40px;
+        border-radius: 10px;
+        margin: -210px 0px 0px 830px;
+
+
+        box-shadow: 10px 10px 10px white;
+    
+}
+.B10{
+    
+    background-color: white;
+    padding: 80px;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    margin: -200px 0px 0px 420px;
+
+
+
+    box-shadow: 30px 10px 10px white;
+
+}
+.B11{
+    
+    background-color: white;
+    padding: 80px;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    margin: -200px 0px 0px 10px;
+
+
+
+    box-shadow: 30px 10px 10px white;
+
+}
+
+
+
+
+
